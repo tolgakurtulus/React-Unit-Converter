@@ -1,10 +1,7 @@
 import React from 'react';
-
 import convert from 'convert-units';
-
 import Container from '@material-ui/core/Container';
 import Grid from '@material-ui/core/Grid';
-
 import Selector from './components/Selectors';
 import InputField from './components/InputField';
 
